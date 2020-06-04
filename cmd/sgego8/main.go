@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/QualiArts/myanalyzer"
+	"github.com/asakuranobuharu/sgego8"
 	"golang.org/x/tools/go/analysis/unitchecker"
 )
 

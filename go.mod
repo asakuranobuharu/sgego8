@@ -1,4 +1,4 @@
-module github.com/QualiArts/myanalyzer
+module github.com/asakuranobuharu/sgego8
 
 go 1.14
 

@@ -1,10 +1,9 @@
 package sgego8_test
 
 import (
-	"testing"
-
-	"github.com/QualiArts/myanalyzer"
+	"github.com/asakuranobuharu/sgego8"
 	"golang.org/x/tools/go/analysis/analysistest"
+	"testing"
 )
 
 // TestAnalyzer is a test for Analyzer.
