@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06692040-4189-4b77-8cb8-dc562729e25d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.2_1/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ckkAYuuiGDDztYczBMbgqmS3bg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sgego8/testdata/src/c" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../sgego8/testdata/src/c" />
+      <recent name="$PROJECT_DIR$/testdata/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.sgego8_test.go">
+    <configuration name="go build sgego8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myanalyzer" />
+      <working_directory value="$PROJECT_DIR$/../sgego8" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../sgego8/sgego8.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myanalyzer_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="myanalyzer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/myanalyzer_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sgego8_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="myanalyzer" />
+      <working_directory value="$PROJECT_DIR$/../sgego8" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/../sgego8/sgego8_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.sgego8_test.go" />
+        <item itemvalue="Go Build.go build sgego8.go" />
+        <item itemvalue="Go Test.myanalyzer_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="130" key="#go_build_sgego8.go" timestamp="1591089181175">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="522" y="130" key="#go_build_sgego8.go/0.23.1680.961@0.23.1680.961" timestamp="1591089181175" />
+    <state width="1481" height="266" key="GridCell.Tab.0.bottom" timestamp="1591090006307">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1481" height="266" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1591090006307" />
+    <state width="1481" height="266" key="GridCell.Tab.0.center" timestamp="1591090006306">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1481" height="266" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1591090006306" />
+    <state width="1481" height="266" key="GridCell.Tab.0.left" timestamp="1591090006306">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1481" height="266" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1591090006306" />
+    <state width="1481" height="266" key="GridCell.Tab.0.right" timestamp="1591090006306">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1481" height="266" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1591090006306" />
+    <state width="1481" height="301" key="GridCell.Tab.1.bottom" timestamp="1591089987899">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1481" height="301" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1591089987899" />
+    <state width="1481" height="301" key="GridCell.Tab.1.center" timestamp="1591089987899">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1481" height="301" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1591089987899" />
+    <state width="1481" height="301" key="GridCell.Tab.1.left" timestamp="1591089987899">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1481" height="301" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1591089987899" />
+    <state width="1481" height="301" key="GridCell.Tab.1.right" timestamp="1591089987899">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1481" height="301" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1591089987899" />
+  </component>
+</project>
